@@ -1,0 +1,9 @@
+add and remove users
+change the roles
+
+git status
+git add .
+
+git branch
+
+git switch feature1
